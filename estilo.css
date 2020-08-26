@@ -1,0 +1,19 @@
+*{
+	margin: 4;
+	padding: 4;
+	box-sizing: border-box;
+	background-color: #0004ff;
+}
+.info1{
+	background-color: #a1a9bc;
+	padding: 12px;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.MENU{
+	background-color:#a1a9bc; 
+	padding: 5px;
+	border-radius: 20px;
+	font-weight: bold;
+}
